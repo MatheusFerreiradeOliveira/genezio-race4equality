@@ -1,0 +1,10 @@
+frontend:
+    path: ./
+    publish: ./
+    scripts:
+        build: ""
+        deploy: ""
+    subdomain: race4equality
+name: race4equality
+region: us-east-1
+yamlVersion: 2
